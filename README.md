@@ -94,6 +94,5 @@ The dashboard highlights how **geography, lived experience, and political framew
 
 ## Author
 **Fabio De Bartolomeo**  
-Junior Data Analyst | Power BI  
-GitHub: https://github.com/debaef
-LinkedIn: https://www.linkedin.com/in/fabio-de-bartolomeo-36773015a/
+*Junior Data Analyst | Power BI*  
+[GitHub](https://github.com/debaef) | [LinkedIn](https://www.linkedin.com/in/fabio-de-bartolomeo-36773015a/)  
